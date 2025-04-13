@@ -4,7 +4,7 @@ Welcome to my GitHub profile!!
 
 ## 🚀 About Me
 
-- 🌱 I'm currently working as a Software Engineer in refurbished phone manufacturer leader in India
+- 🌱 I'm currently working as a Software Engineer at a leading refurbished phone manufacturer in India
 - 🤝 I'm open to collaborating on interesting projects
 - 🔭 Moto: Learn Tech | Apply Tech
 
@@ -76,20 +76,25 @@ Welcome to my GitHub profile!!
     - **Infrastructure as Code**: 
       - <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="20" height="20" style="vertical-align: middle;"> Terraform
 
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codeBard-dev&show_icons=true&theme=radical)](https://github.com/codeBard-dev)
-
 ## 🔥 Recent Projects
 
 - [Project 1](link) - Brief Description
 - [Project 2](link) - Brief Description
 - [Project 3](link) - Brief Description
 
+## 📚 Blogs
+
+- [Blog 1](link) - Brief Description
+- [Blog 2](link) - Brief Description
+
 ## 📫 How to Reach Me
 
 - <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"> [LinkedIn](https://www.linkedin.com/in/priyanshu-mishra-057312110?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="20" height="20" style="vertical-align: middle;"> priyanshum327@gmail.com
+
+## 📊 GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codeBard-dev&show_icons=true&theme=radical)](https://github.com/codeBard-dev)
 
 ## ⭐️ Support
 
